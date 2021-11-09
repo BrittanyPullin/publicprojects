@@ -1,6 +1,6 @@
 # Brittany's 2022 Goals
 
-![It's me](https://drive.google.com//1L4gpYc6EXMSqoODbo6rExLouCo2hNYsv)
+![It's me](./Images/IMG_1076.jpg)
 
 On this page, I am documenting what my goals and aspriations are for the upcoming new year. I have learned that by documenting and recording these types of things, I am able to keep myself more accountable. 
 
