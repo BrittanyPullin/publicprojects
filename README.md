@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+# Brittany's 2022 Goals
 
-You can use the [editor on GitHub](https://github.com/BrittanyPullin/publicprojects/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![It's me](https://drive.google.com//1L4gpYc6EXMSqoODbo6rExLouCo2hNYsv)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+On this page, I am documenting what my goals and aspriations are for the upcoming new year. I have learned that by documenting and recording these types of things, I am able to keep myself more accountable. 
 
-### Markdown
+My hope is to accomplish most of these at the turn of the year but that isn't a hard deadline. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Goal 1: Learn Programming Languages
 
-```markdown
-Syntax highlighted code block
+I am hoping to learn a few useful programming languages for both my personal and professional use. 
 
-# Header 1
-## Header 2
-### Header 3
+ Here are some of the languages I'd like to learn. 
+  * Python
+  * SQL
+  * HTML
+  * Markdown (complete!) 
 
-- Bulleted
-- List
+Here are some of the reasons I'd like to learn programming:
+  * It is an interest of mine
+  * I would love to be able to create and build things using programming.
+  * I would like to be more technical and be able to use programming for data analysis in my professional career.
+  * It is an _**AWESOME**_ skill to know! 
+ 
+  
+## Goal 2: Shift into an Operational or Data Analysis Role at Salesforce
 
-1. Numbered
-2. List
+As I gain more experience through being a Success Guide, I am hoping to grow my skills and be able to shift into a role that is more operationally driven and/or deals with analyzing data. 
 
-**Bold** and _Italic_ and `Code` text
+ Here are some of the teams that I am interested in joining:
+   1. TMP Team
+   2. CSG Operations
+   3. Tableau Team
+   4. GDO Systems and Tools
 
-[Link](url) and ![Image](src)
-```
+Additionally, here are some roles that I think are really cool! 
+* [Sr. Product Manager](https://www.myworkday.com/salesforce/d/inst/15$158872/9925$222126.htmld)
+* [Program Manager, CSG Operations](https://www.myworkday.com/salesforce/d/inst/15$392530/9925$228613.htmld)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+## Goal 3: TBD
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BrittanyPullin/publicprojects/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
